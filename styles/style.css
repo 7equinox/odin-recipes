@@ -1,0 +1,21 @@
+#main-title {
+  font-family: "Arial", serif;
+}
+
+ul li a {
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.link-to-adobong-manok {
+  color: red;
+}
+
+.link-to-chicken-curry {
+  color: rgb(104, 19, 104);
+}
+
+.link-to-pork-sisig {
+  background-color: rgb(70, 56, 56);
+  color: #eccfcf;
+}
