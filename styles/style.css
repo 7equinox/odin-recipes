@@ -19,3 +19,52 @@ ul li a {
   background-color: rgb(70, 56, 56);
   color: #eccfcf;
 }
+
+.bg-adobo-manok,
+.bg-chicken-curry,
+.bg-pork-sisig {
+  background-color: hsl(273, 5%, 57%);
+}
+
+.head-desc {
+  font-size: 2em;
+  border: 1.1px solid hsl(118, 41%, 84%);
+}
+
+.custom-color-1 {
+  color: hsl(350, 63%, 80%);
+}
+
+.p-align {
+  text-align: center;
+}
+
+.custom-color-2 {
+  color: rgb(19, 121, 19);
+}
+
+.ul-align {
+  text-align: right;
+}
+
+.custom-color-3 {
+  color: darkblue;
+}
+
+.ol-align {
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.resize-img {
+  height: 200px;
+  width: 200px;
+}
+
+.custom-font {
+  font-family: "Courier New", Monospace;
+}
+
+.custom-font-2 {
+  font-family: Copperplate, Papyrus, Fantasy;
+}
