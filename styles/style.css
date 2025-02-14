@@ -8,7 +8,7 @@ ul li a {
 }
 
 .link-to-adobong-manok {
-  color: red;
+  color: rgb(0, 140, 255);
 }
 
 .link-to-chicken-curry {
@@ -16,8 +16,7 @@ ul li a {
 }
 
 .link-to-pork-sisig {
-  background-color: rgb(70, 56, 56);
-  color: #eccfcf;
+  color: #d367ee;
 }
 
 .bg-adobo-manok,
@@ -67,4 +66,13 @@ ul li a {
 
 .custom-font-2 {
   font-family: Copperplate, Papyrus, Fantasy;
+}
+
+div.nav-block {
+  text-align: center;
+}
+
+li.item-how-to {
+  padding: 20px;
+  margin-bottom: 10px;
 }
