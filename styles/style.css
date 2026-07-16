@@ -77,7 +77,6 @@ table {
 .recipe-title,
 .recipe-source,
 .recipe-image,
-.recipe-desc,
 .p-back {
     width: max-content;
     margin: 0 auto;
@@ -89,6 +88,10 @@ table {
 
 .custom-width {
     width: 500px;
+}
+
+.recipe-desc {
+    margin-bottom: 10px;
 }
 
 strong {
