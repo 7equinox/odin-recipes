@@ -72,3 +72,57 @@ table {
 #recipe-menu > li {
     padding: 5px;
 }
+
+.recipe-body,
+.recipe-title,
+.recipe-source,
+.recipe-image,
+.recipe-desc,
+.p-back {
+    width: max-content;
+    margin: 0 auto;
+}
+
+.recipe-image {
+    display: block;
+}
+
+.custom-width {
+    width: 500px;
+}
+
+strong {
+    font-weight: bold;
+    font-size: 1.05em;
+    color: darkblue;
+}
+
+em {
+    background-color: rgba(255, 255, 0, 0.568);
+    padding: 1px;
+}
+
+.recipe-title {
+    font-size: 3em;
+    font-weight: 500;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.recipe-source {
+    margin-bottom: 5px;
+}
+
+.recipe-ingred > li,
+.recipe-substeps > li {
+    margin: 2px;
+}
+
+.recipe-steps > li {
+    margin: 8px;
+    font-weight: 800;
+}
+
+.p-back {
+    margin-bottom: 15px;
+}
