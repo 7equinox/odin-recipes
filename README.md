@@ -6,3 +6,4 @@ Skills learned
 3. Add attributes and its values (depending on the tags).
 4. Make absolute and relative links.
 5. Create file directories properly.
+6. Add CSS Properties (color, bg color, font fam, etc.)
